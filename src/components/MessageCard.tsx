@@ -1,6 +1,4 @@
 'use client'
-
-import React, { useState } from 'react';
 import axios, { AxiosError } from 'axios';
 import { X } from 'lucide-react';
 import { Message } from '@/model/User';
